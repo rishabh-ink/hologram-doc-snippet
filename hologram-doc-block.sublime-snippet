@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+/*doc
+---
+title: ${1:Title}
+name: ${2:name}
+category:
+  - ${3:Category}
+---
+
+${4:Description.}
+
+```h${5:t}ml_example
+${6:<p>Example</p>}
+```
+*/
+
+]]></content>
+    <tabTrigger>hologram-doc-block</tabTrigger>
+</snippet>
