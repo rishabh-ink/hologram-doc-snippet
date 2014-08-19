@@ -5,7 +5,7 @@
 
 To install this snippet using [Package Control](http://wbond.net/sublime\_packages/package\_control)...
 
-* Open the Command Palette (<kbd>⌘ + Shift + P</kbd> on OS X, <kbd>Ctrl + Shift + P</kbd> on Linux & Windows).
+* Open the Command Palette (<kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on OS X, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Linux & Windows).
 * Select `Package Control: Install Package`.
 * Select `Hologram Doc Block Sublime Snippet` when the list appears.
 
