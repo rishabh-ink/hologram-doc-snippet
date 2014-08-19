@@ -16,5 +16,5 @@ ${6:<p>Example</p>}
 */
 
 ]]></content>
-    <tabTrigger>hologram-doc-block</tabTrigger>
+    <tabTrigger>hologram-doc</tabTrigger>
 </snippet>
