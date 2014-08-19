@@ -17,24 +17,7 @@ git clone git://github.com/rishabhsrao/hologram-doc-block-sublime-snippet.git ho
 
 ## Usage
 
-Type `hologram-doc-block` and press <kbd>Tab</kbd> to insert the snippet as shown below...
-
-```
-/*doc
----
-title: Title
-name: name
-category:
-  - Category
----
-
-Description.
-
-```html_example
-<p>Example</p>
-```
-*/
-```
+Type the first few characters of `hologram-doc-block` and press <kbd>Tab</kbd> to insert the snippet.
 
 ## License
 
